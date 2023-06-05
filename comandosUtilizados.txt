@@ -1,0 +1,31 @@
+  116 touch comandos.txt main.js index.html
+  117  git init
+  118  git status
+  119  git add .
+  120  git status
+  121  git commit -m "commit 01 de Mariana Ampudia"
+  122  git status
+  123  git remote add origin https://github.com/marian3299/20230605-MarianaAmpudia.git
+  124  git remote -v
+  125  git push origin main
+  126  git branch feature01
+  127  git switch feature01
+  128  mkdir Terminal Hardware
+  129  touch Hardware/resumen.txt Terminal/resumen.txt
+  130  git add .
+  131  git commit -m "commit 02 de Mariana Ampudia"
+  132  git status
+  133  git push origin feature01
+  134  git branch feature02
+  135  git branch
+  136  git branch -d feature02
+  137  git branch
+  138  git branch feature02 feature01
+  139  git branch
+  140  git switch feature02
+  141  git add .
+  142  git status
+  143  git commit -m "commit 03 de Mariana Ampudia"
+  144  git push origin feature02
+  145  git switch main
+  146  mv comandos.txt comandosUtilizados.txt
