@@ -1,0 +1,5 @@
+mkdir --> crear una carpeta
+touch --> crear un archivo
+rm --> eliminar un archivo
+mv --> renombrar archivos
+cp --> copiar un archivo
